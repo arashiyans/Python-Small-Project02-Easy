@@ -1,4 +1,4 @@
-# Contoh kode untuk kalkulator sederhana
+
 def add(x, y):
     return x + y
 
